@@ -1,0 +1,4 @@
+项目名称：CoolWeather
+项目主页地址：https://github.com/GPPyeye/CoolWeather
+作者：GPPyeye
+远程版本库Git地址：https://github.com/GPPyeye/CoolWeather.git
