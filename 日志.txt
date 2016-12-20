@@ -2,3 +2,8 @@
 项目主页地址：https://github.com/GPPyeye/CoolWeather
 作者：GPPyeye
 远程版本库Git地址：https://github.com/GPPyeye/CoolWeather.git
+
+和风天气：
+账号:2396405574@qq.com
+密码：wbxhpws123456
+开发者key:972f9c002ba54dc7b1936b6cb5dc5de9
